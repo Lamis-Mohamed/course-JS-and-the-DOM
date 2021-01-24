@@ -1,7 +1,13 @@
 # Landing Page Project
+Welcome to the Board
 
 ## Table of Contents
 
+section 1: Home
+section 2: About Us
+section 3: Contact U
+s
+section 4: The Board
 * [Instructions](#instructions)
 
 ## Instructions
